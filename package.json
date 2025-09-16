@@ -1,0 +1,43 @@
+{
+  "name": "telegram-bot-obfuscator",
+  "version": "1.0.0",
+  "description": "A Telegram bot that obfuscates JavaScript files using js-confuser with Mandarin character obfuscation",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "telegram",
+    "bot",
+    "obfuscator",
+    "javascript",
+    "js-confuser",
+    "mandarin"
+  ],
+  "author": "terri",
+  "license": "MIT",
+  "dependencies": {
+    "telegraf": "^4.16.3",
+    "fs-extra": "^11.1.1",
+    "node-fetch": "^3.3.2",
+    "js-confuser": "^1.7.3",
+    "dotenv": "^16.4.5"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/telegram-bot-obfuscator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/your-username/telegram-bot-obfuscator/issues"
+  },
+  "homepage": "https://github.com/your-username/telegram-bot-obfuscator#readme"
+}
