@@ -34,10 +34,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/your-username/telegram-bot-obfuscator.git"
+    "url": "https://github.com/Terrizev/Tele-obfuscator.git"
   },
   "bugs": {
-    "url": "https://github.com/your-username/telegram-bot-obfuscator/issues"
+    "url": "https://github.com/Terrizev/Tele-obfuscator/issues"
   },
-  "homepage": "https://github.com/your-username/telegram-bot-obfuscator#readme"
+  "homepage": "https://github.com/Terrizev/Tele-obfuscator#readme"
 }
